@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Nora Elmisry"
-  avatar : "/assets/images/image.png/"
+  avatar : "/assets/images/image.png"
   bio    : "My name is Nora and I am a Legal Studies major in NYUAD. Welcome to my page! Hope you have fun."
   links:
     - label: "Website"
