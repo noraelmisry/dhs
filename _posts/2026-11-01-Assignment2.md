@@ -12,7 +12,7 @@ tags:
 
 <div style="width:100%; height:70vh;">
   <iframe
-    src="{{ '/assets/maps/interactive_map.html' | relative_url }}"
+    src="{{ '/assets/maps/interactive_map1.html' | relative_url }}"
     style="width:100%; height:100%; border:0;"
     loading="lazy">
   </iframe>
