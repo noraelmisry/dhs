@@ -187,3 +187,6 @@ Caption: Columbia annotated five times causing an appearance of dense location p
 
 
 <p>Ultimately, the methods demonstrate that computational approaches do not simply reproduce geographical reality. They construct representations of space based on the information available to them and the decisions made throughout the process. Understanding these limitations is essential when using automated methods to interpret human movement, geographical narratives and the spaces represented in textual data.<p>
+
+
+READY FOR GRADING
